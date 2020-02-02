@@ -2,9 +2,11 @@ def say_hello(ge):
     kenobi = "Hello There"
     pi = 3.14
     print("Hello, World!")
-    print(pi+5)
+    print(pi+=5)
 
 say_hello()
+"""comment tu t'appelle"""
+'''comment sa va'''
 #comment
 '''comment'''
-a = ['list', "fuu"]
+a = ['list', "fun"]
