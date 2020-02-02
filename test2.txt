@@ -1,0 +1,10 @@
+def say_hello(ge):
+    kenobi = "Hello There"
+    pi = 3.14
+    print("Hello, World!")
+    print(pi+5)
+
+say_hello()
+#comment
+'''comment'''
+a = ['list', "fuu"]
